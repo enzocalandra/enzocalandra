@@ -1,7 +1,7 @@
 - 👋 Hello there, everyone! I’m @enzocalandra
-- 👀 I’m interested in software development, databases, cybersecurity and cloud computing.
-- 🌱 I’m a beginner in this world and I'm currently learning (or trying to) C#/.NET, Python, Java, and the basic front-end development tools (HTML/CSS/Javascript).
-- 💞️ I’m looking to learn and collaborate with the community as soon as I get my skills improved. I also expect to become a software developer in the near future.
+- 👀 I’m interested in software development, databases and everything related to data and analytics.
+- 🌱 Currently studying data engineering, using tools such as Python, MySQL, PostgreSQL, MongoDB, Cassandra and Google Cloud.
+- 💞️ I’m looking to learn and eager to collaborate with the community as soon as possible.
 - 📫 The easiest ways to reach me is through my e-mail (enzocalandra.tech@gmail.com) and LinkedIn profile (https://www.linkedin.com/in/enzocalandra).
 - I hope I can achieve a lot with you all in here!
 
