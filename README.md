@@ -1,6 +1,6 @@
 - 👋 Hello there, everyone, I'm @enzocalandra! Welcome to my github profile!
-- 👀 I’m interested in software development, databases and everything related to data and analytics.
-- 🌱 Currently studying data engineering, using modern tools such as Python, MySQL, PostgreSQL, MongoDB, Cassandra, Google Cloud, among others.
+- 👀 I’m interested in software development, databases, systems management and everything related to technology and automatization.
+- 🌱 Currently studying Systems Analyses and Development, back-end structures, some things about front-end too, using modern tools such as Java, Python, MySQL, PostgreSQL, MongoDB, Cassandra, Google Cloud, JS, among others.
 - 💞️ I’m excited to learn each day and eager to collaborate with the community as much as I can.
 - 📫 The easiest ways to reach me is through my e-mail (enzocalandra.tech@gmail.com) and LinkedIn profile (https://www.linkedin.com/in/enzocalandra).
 - I hope I can achieve a lot with you all in here!
